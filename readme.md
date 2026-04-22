@@ -1,7 +1,7 @@
 # Who am I?
 
-With a solid 5-year background in data analysis, I am proficient in leveraging a suite of tools including SQL, Excel, Power BI, SAP, and Google BigQuery to extract, process, and analyze data. My expertise encompasses creating detailed management reports, ensuring data quality, and optimizing data integration through ETL processes. I am committed to furthering my knowledge in data science, particularly in areas of Machine Learning, with a focus on utilizing frameworks like Pandas, Numpy, Pyspark, and SKlearn.
-<br>Professionally, I have a proven track record in roles that required advanced data analytics, performance indicator analysis, and the development of automated data extraction and analysis jobs. My experience at companies such as Collinson Group, Santander, and Riachuelo S/A has equipped me with the skills to drive strategic business decisions and mentor teams in data analysis methodologies.</br>
+Senior Data Analyst with over 6 years of experience in data quality, governance, and business intelligence across banking, healthcare, retail, and consulting. Experienced in managing large-scale data operations, from building automated ETL pipelines and consolidating enterprise-wide error classification systems to delivering insights through Power BI dashboards that support regulatory compliance and strategic decision-making. Strong technical foundation in SQL, Python and SAS, combined with a track record of effective stakeholder management and cross-functional collaboration.
+<br>Currently pursuing a Data Science degree at UOC and actively expanding into modern data architectures, with academic and hands-on project experience in Snowflake, dbt, Apache Airflow, and Airbyte, building cloud-native ELT pipelines as a natural evolution from my legacy SQL background.</br>
 
 During the course of Gama I developed some projects. <br>
 • An <a href="https://github.com/srxkatsumi/API-ecom"> api for e-commerce </a> <br>
