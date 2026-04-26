@@ -4,10 +4,8 @@ Senior Data Analyst with over 6 years of experience in data quality, governance,
 <br>Currently pursuing a Data Science degree at UOC and actively expanding into modern data architectures, with academic and hands-on project experience in Snowflake, dbt, Apache Airflow, and Airbyte, building cloud-native ELT pipelines as a natural evolution from my legacy SQL background.</br>
 
 During the course of Gama I developed some projects. <br>
-• An <a href="[https://github.com/srxkatsumi/olist-data-platform](https://github.com/srxkatsumi/olist-data-platform)"> Olist </a> <br>
-• <a href="[[https://github.com/srxkatsumi/API-ecom]](https://srxkatsumi.github.io/BoletoSafe/)(https://srxkatsumi.github.io/BoletoSafe/)"> BoletoSafe </a> <br>
-
-• <a href="https://github.com/srxkatsumi/calculadora-Python"> In the courses they take I learned to make simple applications in python </a>
+• An [Olist](https://github.com/srxkatsumi/olist-data-platform)
+• [BoletoSafe](https://srxkatsumi.github.io/BoletoSafe/)
 
 <div> 
   <a href = "mailto:mx.vickycosta@gmail.com"><img src="https://img.shields.io/badge/gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
