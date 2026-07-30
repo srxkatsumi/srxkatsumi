@@ -1,7 +1,7 @@
 # Hi, I'm Vicky Costa 👋
 
 **Senior Data Analyst** with 6+ years of experience across banking, healthcare, retail, and consulting.
-I specialize in **data quality**, **ETL/ELT pipelines**, and **BI reporting** — and I build my own production data and ML systems outside of work to bridge legacy SQL environments with modern cloud-native architectures.
+I specialize in **data quality**, **ETL/ELT pipelines**, and **BI reporting** and I build my own production data and ML systems outside of work to bridge legacy SQL environments with modern cloud-native architectures.
 
 Currently pursuing a **B.S. in Data Science at UOC** (Universitat Oberta de Catalunya), with hands-on project experience in Snowflake, dbt, Apache Airflow, and Airbyte.
 
